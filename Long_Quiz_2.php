@@ -1,6 +1,7 @@
 //Problem 1
 <html> <head> <title> Laboratory Activity</title> </head>
 <body bgcolor=black> <font color=white>
+<font face="Courier New" >
 <?php
 echo "<b>Long Quiz</b><br>";
 print "Today’s date and time is <br>";
@@ -32,6 +33,7 @@ echo "Net Pay = $net_pay <br>";
 //Problem 2
 <html> <head> <title> Laboratory Activity</title> </head>
 <body bgcolor=black> <font color=white>
+<font face="Courier New" >
 <?php
 echo "<b>Long Quiz</b><br>";
 print "Today’s date and time is <br>";
